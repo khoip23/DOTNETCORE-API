@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "Gn5XpbI4fOmggaexWfhbCvhEn1VLRWrYHdNqoJEugj0=",
+  "Source": "webapi_blazor",
+  "BasePath": "_content/webapi_blazor",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
