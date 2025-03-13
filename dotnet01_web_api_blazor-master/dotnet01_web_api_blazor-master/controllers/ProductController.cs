@@ -26,7 +26,7 @@ namespace webapi_blazor.Controllers
         [HttpGet("/product/getall")]
         public async Task<IActionResult> getAll(int pageIndex = 0, int pageSize = 10)
         {
-            //linq
+            //linqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqq
             var productList = _context.Products.Skip(pageIndex * pageSize).Take(pageSize);
             return Ok(productList);
         }
